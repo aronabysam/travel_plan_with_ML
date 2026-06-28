@@ -1,0 +1,569 @@
+budget,days,vibe,destination,latitude,longitude
+2000,2,Beach,Varkala,8.7338,76.7116
+1500,1,Backwaters,Alappuzha,9.4981,76.3388
+5000,3,Hill Station,Munnar,10.0889,77.0595
+3000,2,Wildlife,Thekkady,9.5333,77.2000
+1000,1,Historical,Fort Kochi,9.9658,76.2421
+4500,3,Beach,Kovalam,8.4021,76.9784
+6000,4,Hill Station,Wayanad,11.6854,76.1320
+2500,2,Backwaters,Kumarakom,9.5928,76.4227
+1200,1,Waterfall,Athirappilly,10.2740,76.5491
+3500,3,Wildlife,Parambikulam,10.3923,76.7752
+1800,2,Beach,Cherai,10.1416,76.1783
+5500,4,Hill Station,Vagamon,9.6869,76.9048
+2200,2,Backwaters,Kollam,8.8932,76.6141
+4000,3,Adventure,Jatayu Earth Center,8.8876,76.8677
+1300,1,Historical,Bekal Fort,12.3934,75.0345
+2800,2,Waterfall,Vazhachal,10.2994,76.5654
+3200,3,Pilgrimage,Sabarimala,9.4404,77.0819
+1100,1,Beach,Marari,9.6014,76.2996
+4800,3,Wildlife,Eravikulam,10.1500,77.0833
+6500,5,Hill Station,Ponmudi,8.7600,77.1167
+1600,1,Backwaters,Kuttanad,9.4333,76.4000
+2400,2,Historical,Thalassery Fort,11.7479,75.4947
+3800,3,Adventure,Idukki Dam,9.8441,76.9725
+1400,2,Pilgrimage,Guruvayur,10.5946,76.0381
+5200,4,Hill Station,Peerumedu,9.5694,77.0222
+2100,2,Beach,Kozhikode Kappad,11.3854,75.7202
+2700,2,Waterfall,Meenmutty,11.6192,76.2308
+3300,3,Wildlife,Wayanad Sanctuary,11.6667,76.3667
+1250,1,Historical,Hill Palace Tripunithura,9.9531,76.3533
+4200,3,Backwaters,Valiyaparamba,12.1154,75.1481
+5800,4,Adventure,Gavi,9.4394,77.1656
+1900,2,Beach,Payyambalam,11.8741,75.3512
+2300,2,Pilgrimage,Padmanabhaswamy Temple,8.4831,76.9436
+3100,3,Waterfall,Soochipara,11.5119,76.1625
+4600,3,Hill Station,Ranipuram,12.4277,75.3536
+1350,1,Beach,Muzhappilangad Drive-in,11.7925,75.4497
+2900,2,Wildlife,Chinnar Wildlife Sanctuary,10.3506,77.2158
+3600,3,Backwaters,Ashtamudi,8.9500,76.5833
+1700,1,Waterfall,Thommankuthu,9.9567,76.8322
+5000,4,Adventure,Illikkal Kallu,9.6644,76.8344
+7000,5,Hill Station,Nelliyampathy,10.5342,76.6936
+2600,2,Backwaters,Kavvayi Islands,12.0833,75.1667
+3400,3,Adventure,Paithalmala,12.0998,75.6568
+1150,1,Beach,Nattika,10.4144,76.0967
+1550,2,Pilgrimage,Malayattoor Church,10.1978,76.5161
+4100,3,Wildlife,Muthanga,11.6694,76.3667
+2450,2,Waterfall,Palaruvi,8.9103,77.1625
+1050,1,Historical,Palakkad Fort,10.7663,76.6553
+4300,3,Hill Station,Malakkappara,10.2831,76.8342
+6200,4,Adventure,Anamudi Shola,10.1667,77.2000
+2150,2,Beach,Chavakkad,10.5892,76.0222
+3700,3,Backwaters,Sasthamkotta Lake,9.0433,76.6342
+1450,1,Historical,Arakkal Museum,11.8614,75.3736
+3050,2,Waterfall,Cheeyappara,10.0278,76.9403
+4900,4,Hill Station,Ramakkalmedu,9.8000,77.2500
+2250,2,Pilgrimage,Chottanikkara Temple,9.9328,76.3908
+3250,3,Wildlife,Neyyar Sanctuary,8.5333,77.1500
+1650,1,Beach,Alappuzha Beach,9.4925,76.3197
+5300,4,Backwaters,Pathiramanal Island,9.6178,76.3881
+3900,3,Adventure,Meenmutty Heights,11.6150,76.2344
+1380,1,Historical,Kottapuram Fort,10.1989,76.1978
+2750,2,Waterfall,Power House Waterfalls,10.0478,77.1231
+5600,4,Hill Station,Kanthalloor,10.2319,77.1814
+1850,2,Pilgrimage,Ambalappuzha Temple,9.3828,76.3639
+3150,3,Wildlife,Peechi-Vazhani,10.5333,76.3833
+1280,1,Beach,Snehatheeram,10.4211,76.0953
+4400,3,Backwaters,Monroe Island,8.9914,76.6136
+6100,5,Adventure,Chembra Peak,11.5458,76.0886
+2350,2,Historical,Poonjar Palace,9.6769,76.8122
+2950,2,Waterfall,Valara Falls,10.0167,76.9167
+6800,5,Hill Station,Vythiri,11.5544,76.0425
+1750,2,Pilgrimage,Mannarasala Temple,9.2661,76.5186
+3350,3,Wildlife,Shendurney Sanctuary,8.9167,77.1167
+1420,1,Beach,Beypore,11.1611,75.8047
+4700,3,Adventure,Ilaveezhapoonchira,9.7833,76.8000
+5400,4,Backwaters,Poovar Island,8.3181,77.0678
+1950,2,Historical,Mattancherry Palace,9.9592,76.2592
+2850,2,Waterfall,Kanthanpara,11.5528,76.1683
+5100,4,Hill Station,Lakkidi,11.5178,76.0225
+1620,1,Pilgrimage,Beemapally Mosque,8.4553,76.9328
+3550,3,Wildlife,Thattekad Bird Sanctuary,10.1167,76.7000
+1180,1,Beach,Thikkoti Lighthouse,11.4783,75.6264
+4250,3,Adventure,Kadavanthra Water Sports,9.9650,76.2950
+5700,4,Hill Station,Marayoor,10.2694,77.1611
+2050,2,Backwaters,Vembanad Lake,9.5833,76.4167
+1320,1,Historical,Kizhunna Beach Fort,11.8211,75.4344
+2650,2,Waterfall,Dhoni Waterfalls,10.8333,76.6333
+3450,3,Pilgrimage,Aranmula Temple,9.3306,76.6858
+4950,4,Wildlife,Aralam Sanctuary,11.9500,75.8333
+1480,1,Beach,Shankumugham Beach,8.4797,76.9114
+4650,3,Adventure,Kottancheri Hills,12.3167,75.3833
+6300,4,Hill Station,Ambanad Hills,9.0333,77.0833
+2380,2,Backwaters,Kumbalangi,9.9000,76.2833
+1220,1,Historical,St. Angelo Fort,11.8544,75.3683
+3020,2,Waterfall,Marmala Waterfall,9.6544,76.8403
+3850,3,Pilgrimage,Vaikom Temple,9.7469,76.3958
+5150,4,Wildlife,Mangalavanam Bird Sanctuary,9.9886,76.2731
+1520,1,Beach,Kappil Beach,8.7778,76.6711
+5450,4,Adventure,Vellarimala,11.4667,76.1333
+6000,5,Hill Station,Kurisumala,9.6642,76.8925
+1800,1,Beach,Edava Beach,8.7559,76.6889
+2200,2,Beach,Kappil Varkala,8.7942,76.6626
+2500,2,Beach,Azheekal Beach,9.1167,76.4667
+1700,1,Beach,Andhakaranazhi Beach,9.7359,76.2804
+2100,2,Beach,Thaikadappuram Beach,12.1942,75.1236
+1900,1,Beach,Meenkunnu Beach,11.9090,75.3402
+1600,1,Beach,Dharmadam Island,11.7767,75.4464
+1550,1,Beach,Ezhara Beach,11.8227,75.4324
+2400,2,Beach,Thottada Beach,11.8459,75.4196
+2600,2,Beach,Padinjarekkara Beach,10.8228,75.9072
+2300,2,Beach,Vallikunnu Beach,11.1244,75.8390
+1750,1,Beach,Kuzhupilly Beach,10.0845,76.1787
+1850,1,Beach,Puthuvype Beach,9.9834,76.2143
+2800,2,Beach,Samudra Beach,8.3986,76.9798
+2600,2,Beach,Hawah Beach,8.4005,76.9756
+2700,2,Beach,Lighthouse Beach,8.4008,76.9780
+3400,3,Backwaters,Thanneermukkom,9.6841,76.3964
+3300,3,Backwaters,Punnamada Lake,9.5260,76.3536
+3200,3,Backwaters,Champakulam,9.3717,76.4074
+3000,2,Backwaters,Nedumudy,9.4330,76.3830
+2900,2,Backwaters,Thakazhi,9.3833,76.4167
+3600,3,Backwaters,Panmana,9.0480,76.5257
+4100,3,Backwaters,Kayamkulam Lake,9.1746,76.4818
+3900,3,Backwaters,Akathumuri Backwaters,8.7167,76.7333
+5200,4,Backwaters,Marine Drive Kochi,9.9816,76.2765
+4800,3,Backwaters,Bolgatty Island,9.9992,76.2673
+4500,3,Backwaters,Cochin Backwaters,9.9674,76.2458
+3600,3,Backwaters,Chettuva Backwater,10.5336,76.0216
+6200,4,Hill Station,Devikulam,10.0670,77.1060
+6400,4,Hill Station,Chinnakanal,10.0134,77.1900
+5900,4,Hill Station,Mattupetty,10.1076,77.1243
+6100,4,Hill Station,Top Station,10.1218,77.2463
+5800,4,Hill Station,Anayirankal,10.0132,77.2193
+5500,4,Hill Station,Kolukkumalai,10.0880,77.2280
+5000,3,Hill Station,Meesapulimala,10.1375,77.2577
+4900,3,Hill Station,Silent Valley View Munnar,10.0830,77.0610
+5300,4,Hill Station,Agasthyakoodam,8.6156,77.2479
+4700,3,Hill Station,Peppara,8.6433,77.1550
+5200,4,Hill Station,Bonacaud,8.7550,77.1733
+6000,4,Hill Station,Attappadi,11.1010,76.5450
+4300,3,Hill Station,Kodikuthimala,11.0372,76.0755
+5750,4,Hill Station,Elaveezhapoonchira View Point,9.7830,76.8006
+3500,2,Waterfall,Perunthenaruvi,9.3847,76.8203
+3200,2,Waterfall,Aruvikkuzhi Waterfalls,9.6275,76.6636
+3100,2,Waterfall,Keezharkuthu Waterfalls,9.8844,76.8627
+3300,2,Waterfall,Kesari Waterfalls,10.0500,77.1000
+3700,3,Waterfall,Lakkom Waterfalls,10.1795,77.0906
+3900,3,Waterfall,Nyayamakad Waterfalls,10.1189,77.0431
+2800,2,Waterfall,Attukad Waterfalls,10.0705,77.0431
+2900,2,Waterfall,Thoovanam Waterfalls,10.2998,77.2183
+2600,2,Waterfall,Aruvikkara Waterfalls,8.5710,77.0073
+2400,2,Waterfall,Kumbhavurutty Waterfalls,8.9825,77.1586
+2700,2,Waterfall,Adyanpara Waterfalls,11.3657,76.2365
+3000,2,Waterfall,Sentinel Rock Waterfalls,11.5119,76.1625
+4200,3,Wildlife,Silent Valley National Park,11.0833,76.4500
+4600,3,Wildlife,Periyar Tiger Reserve,9.4622,77.2369
+4300,3,Wildlife,Peppara Wildlife Sanctuary,8.6170,77.1670
+4100,3,Wildlife,Chimmini Wildlife Sanctuary,10.4333,76.4500
+4400,3,Wildlife,Idukki Wildlife Sanctuary,9.8370,76.9700
+4550,3,Wildlife,Malabar Wildlife Sanctuary,11.6100,75.8500
+4700,3,Wildlife,Kadalundi Bird Sanctuary,11.1311,75.8311
+3900,3,Wildlife,Choolannur Peacock Sanctuary,10.6911,76.4627
+5200,4,Wildlife,Mathikettan Shola National Park,10.0833,77.2500
+5350,4,Wildlife,Pampadum Shola National Park,10.1600,77.2500
+5450,4,Wildlife,Anamudi Shola National Park,10.1711,77.2117
+5600,4,Wildlife,Kumarakom Bird Sanctuary,9.6256,76.4294
+1500,1,Historical,Jew Town Kochi,9.9581,76.2599
+1600,1,Historical,Dutch Cemetery Kochi,9.9667,76.2410
+1800,1,Historical,Paradesi Synagogue,9.9577,76.2596
+2200,2,Historical,Edakkal Caves,11.6266,76.2369
+2100,2,Historical,Krishnapuram Palace,9.1496,76.5050
+2000,2,Historical,Padmanabhapuram Palace,8.2507,77.3266
+1750,1,Historical,Anchuthengu Fort,8.6911,76.7614
+1650,1,Historical,Tellicherry Pier,11.7481,75.4897
+1900,1,Historical,Thirunavaya,10.8631,75.9820
+2300,2,Historical,Thrikkakkudi Rock Cut Temple,9.5843,76.5241
+1550,1,Historical,Kottukal Cave Temple,8.8708,76.8937
+2100,2,Historical,Kanakakunnu Palace,8.5126,76.9557
+1800,1,Pilgrimage,Attukal Temple,8.4703,76.9473
+2200,2,Pilgrimage,Janardanaswamy Temple Varkala,8.7379,76.7163
+2000,2,Pilgrimage,Thiruvalla Sreevallabha Temple,9.3831,76.5757
+1850,1,Pilgrimage,Kodungallur Bhagavathy Temple,10.2267,76.1972
+1950,2,Pilgrimage,Thirunelli Temple,11.9167,76.0833
+2500,2,Pilgrimage,Kadampuzha Temple,10.9833,76.0333
+2350,2,Pilgrimage,Ettumanoor Mahadeva Temple,9.6706,76.5583
+2450,2,Pilgrimage,Thirunakkara Temple,9.5916,76.5220
+2300,2,Pilgrimage,Parassinikadavu Muthappan Temple,11.9748,75.4230
+2600,2,Pilgrimage,Lokanarkavu Temple,11.5837,75.6056
+2700,2,Pilgrimage,Kaviyoor Mahadeva Temple,9.3922,76.6005
+3000,2,Pilgrimage,St Francis Church Kochi,9.9669,76.2416
+4300,3,Adventure,Vagamon Pine Forest,9.6865,76.9058
+4700,3,Adventure,Vagamon Meadows,9.6816,76.9050
+5200,4,Adventure,Parunthumpara,9.5515,77.0047
+5400,4,Adventure,Calvary Mount,9.8279,76.9291
+5500,4,Adventure,Ayyappancoil Hanging Bridge,9.7385,77.0209
+5100,4,Adventure,Banasura Sagar Dam,11.6709,75.9506
+4900,3,Adventure,Karlad Lake,11.6328,76.0417
+5800,4,Adventure,900 Kandi,11.4929,76.1248
+5600,4,Adventure,Kuruva Island,11.8336,76.0866
+3900,3,Adventure,Pookode Lake,11.5427,76.0272
+3700,3,Adventure,Thenmala Eco Tourism,8.9567,77.0667
+4000,3,Adventure,Kallar Meenmutty,8.7411,77.1319
+4500,3,Adventure,Akkulam Tourist Village,8.5093,76.9017
+4250,3,Adventure,Veli Tourist Village,8.5116,76.8906
+6100,4,Adventure,Arippara Waterfalls,11.3726,76.0106
+3500,3,Adventure,Sargaalaya Arts Village,11.6042,75.5869
+1550,1,Beach,Poovar Beach,8.3180,77.0680
+1650,1,Beach,Adimalathura Beach,8.3461,76.9828
+1750,1,Beach,Chowara Beach,8.3597,76.9858
+1850,1,Beach,Azhimala Beach,8.3669,76.9907
+1950,1,Beach,Vizhinjam Beach,8.3823,76.9910
+2050,2,Beach,St Andrews Beach,8.5847,76.8225
+2150,2,Beach,Perumathura Beach,8.6315,76.7855
+2250,2,Beach,Muthalapozhi Beach,8.6394,76.7776
+2350,2,Beach,Anjengo Beach,8.6861,76.7597
+2450,2,Beach,Edava Nadayara Beach,8.7621,76.6775
+1800,1,Beach,Paravur Beach Kollam,8.8118,76.6670
+1900,1,Beach,Thirumullavaram Beach,8.9021,76.5694
+2000,2,Beach,Kollam Beach,8.8811,76.5847
+2100,2,Beach,Azheekal Kollam Beach,9.1175,76.4639
+2200,2,Beach,Valiazheekal Beach,9.1174,76.4627
+1700,1,Beach,Kattil Mekkathil Beach,9.0943,76.5039
+1800,1,Beach,Thottappally Beach,9.3144,76.3812
+1900,1,Beach,Andhakaranazhi,9.7359,76.2804
+2000,2,Beach,Arthunkal Beach,9.6689,76.3042
+2100,2,Beach,Chethy Beach,9.6154,76.3042
+2200,2,Beach,Ottamassery Beach,9.7435,76.2897
+2300,2,Beach,Manakkodam Beach,9.7700,76.2861
+2400,2,Beach,Saudi Beach Kochi,9.9470,76.2370
+2500,2,Beach,New Puthuvype Beach,9.9985,76.2112
+2600,2,Beach,Vypin Beach,10.0002,76.2293
+2700,2,Beach,Njarackal Beach,10.0327,76.1962
+2800,2,Beach,Munambam Beach,10.1787,76.1643
+1700,1,Beach,Azhikode Munakkal Beach,10.1882,76.1606
+1800,1,Beach,Kaipamangalam Beach,10.4037,76.1067
+1900,1,Beach,Periyambalam Beach,10.4416,76.0866
+2000,2,Beach,Vadanappally Beach,10.4886,76.0529
+2100,2,Beach,Chettuva Beach,10.5286,76.0150
+2200,2,Beach,Blangad Beach,10.5728,76.0210
+2300,2,Beach,Ponnani Beach,10.7830,75.9200
+2400,2,Beach,Padinharekara Beach,10.8236,75.9078
+2500,2,Beach,Koottayi Beach,10.8770,75.8942
+2600,2,Beach,Tanur Beach,10.9740,75.8643
+2700,2,Beach,Parappanangadi Beach,11.0500,75.8550
+1800,1,Beach,Chaliyam Beach,11.1680,75.8010
+1900,1,Beach,Kozhikode Beach,11.2588,75.7804
+2000,2,Beach,Lions Park Beach,11.2590,75.7792
+2100,2,Beach,Konad Beach,11.2944,75.7528
+2200,2,Beach,Elathur Beach,11.3450,75.7250
+2300,2,Beach,Payyoli Beach,11.5354,75.6229
+2400,2,Beach,Kolavi Beach,11.5745,75.5815
+2500,2,Beach,Vadakara Sandbanks,11.6085,75.5806
+2600,2,Beach,Mahe Beach,11.7032,75.5338
+2700,2,Beach,Chootad Beach,12.0531,75.2052
+2800,2,Beach,Ettikulam Beach,12.0428,75.2018
+2900,2,Beach,Ramanthali Beach,12.0744,75.1877
+3000,2,Beach,Payyanur Beach,12.1000,75.2000
+3100,2,Beach,Kavvayi Beach,12.0830,75.1648
+3200,3,Beach,Valiyaparamba Beach,12.1154,75.1481
+3300,3,Beach,Thaikadappuram Azhithala Beach,12.1950,75.1220
+3400,3,Beach,Nileshwar Beach,12.2550,75.1350
+3500,3,Beach,Kanhangad Beach,12.3100,75.0750
+3600,3,Beach,Pallikkara Beach,12.3900,75.0300
+3700,3,Beach,Kappil Kasaragod Beach,12.3657,74.9958
+3800,3,Beach,Kanwatheertha Beach,12.6833,74.9000
+3900,3,Beach,Manjeswaram Beach,12.7136,74.8910
+4000,3,Backwaters,Neyyar Reservoir,8.5337,77.1502
+4100,3,Backwaters,Akkulam Lake,8.5090,76.9020
+4200,3,Backwaters,Veli Lake,8.5109,76.8899
+4300,3,Backwaters,Kadinamkulam Lake,8.6297,76.7915
+4400,3,Backwaters,Anjuthengu Backwaters,8.6885,76.7607
+4500,3,Backwaters,Paravur Lake Kollam,8.8125,76.6672
+4600,3,Backwaters,Kallada River Backwaters,9.0125,76.6578
+4700,3,Backwaters,Chavara Backwaters,8.9947,76.5324
+4800,3,Backwaters,Karunagappally Backwaters,9.0547,76.5353
+4900,3,Backwaters,Kayamkulam Backwaters,9.1725,76.4881
+5000,4,Backwaters,Changanassery Backwaters,9.4420,76.5362
+5100,4,Backwaters,Thiruvalla Backwaters,9.3835,76.5740
+5200,4,Backwaters,Vaikom Backwaters,9.7480,76.3965
+5300,4,Backwaters,Thalayolaparambu Backwaters,9.7850,76.4500
+5400,4,Backwaters,Kadamakkudy Islands,10.0591,76.2483
+5500,4,Backwaters,Panangad Backwaters,9.9030,76.3100
+5600,4,Backwaters,Thevara Backwaters,9.9380,76.2973
+5700,4,Backwaters,Perumbalam Island,9.8310,76.3640
+5800,4,Backwaters,Cheppanam Backwaters,9.8891,76.3290
+5900,4,Backwaters,Udayamperoor Backwaters,9.8783,76.3606
+6000,4,Backwaters,Enamakkal Lake,10.4700,76.1000
+6100,4,Backwaters,Thrissur Kole Wetlands,10.4900,76.1600
+6200,4,Backwaters,Bharathapuzha River Banks,10.8000,75.9300
+6300,4,Backwaters,Kadalundi Estuary,11.1306,75.8297
+6400,4,Backwaters,Korapuzha Backwaters,11.3440,75.7240
+6500,4,Backwaters,Moorad River,11.5880,75.5930
+6600,4,Backwaters,Anjarakandy River Backwaters,11.8550,75.4500
+6700,4,Backwaters,Valapattanam River,11.9240,75.3740
+6800,5,Backwaters,Payyannur Backwaters,12.1050,75.2050
+6900,5,Backwaters,Chandragiri Backwaters,12.5000,74.9900
+7000,5,Backwaters,Manjeswaram Backwaters,12.7140,74.8900
+4100,3,Hill Station,Madathumala,9.6560,76.8610
+4200,3,Hill Station,Thangalpara Vagamon,9.6769,76.9092
+4300,3,Hill Station,Karikadu View Point,9.6550,76.8480
+4400,3,Hill Station,Murugan Mala,9.6915,76.9107
+4500,3,Hill Station,Kuttikkanam,9.5742,76.9792
+4600,3,Hill Station,Panchalimedu,9.5453,76.9797
+4700,3,Hill Station,Ammachi Kottaram,9.5780,76.9750
+4800,3,Hill Station,Parunthumpara Viewpoint,9.5509,77.0046
+4900,3,Hill Station,Ottakathalamedu,9.5910,77.0590
+5000,3,Hill Station,Chellarkovil,9.6250,77.1500
+5100,4,Hill Station,Anakkara,9.6180,77.1350
+5200,4,Hill Station,Vandanmedu,9.7167,77.1667
+5300,4,Hill Station,Kuttikanam Hills,9.5790,76.9780
+5400,4,Hill Station,Elappara,9.6087,76.9745
+5500,4,Hill Station,Uluppuni,9.7377,76.9471
+5600,4,Hill Station,Pullikkanam,9.6670,76.9230
+5700,4,Hill Station,Ayyampuzha Hills,10.2060,76.4740
+5800,4,Hill Station,Poomala,10.6017,76.2381
+5900,4,Hill Station,Vilangan Hills,10.5519,76.1784
+6000,4,Hill Station,Palakkayam Thattu,12.0770,75.5600
+6100,4,Hill Station,Ezharakund Waterfalls Hills,12.0710,75.5230
+6200,4,Hill Station,Kappimala,12.0880,75.5500
+6300,4,Hill Station,Peruvannamuzhi Hills,11.5950,75.8200
+6400,4,Hill Station,Thusharagiri Hills,11.4686,76.0522
+6500,4,Hill Station,Anakkampoyil Hills,11.4100,76.0300
+6600,4,Hill Station,Kakkayam Hills,11.5460,75.9000
+6700,4,Hill Station,Pazhassi Raja Hills,11.6600,76.0500
+6800,5,Hill Station,Brahmagiri Hills,11.9410,76.0140
+6900,5,Hill Station,Pakshipathalam,11.9439,75.9964
+7000,5,Hill Station,Ambukuthi Mala,11.6240,76.2360
+7100,5,Hill Station,Neelimala Viewpoint,11.5130,76.1650
+7200,5,Hill Station,Phantom Rock,11.6090,76.1720
+7300,5,Hill Station,Karapuzha Viewpoint,11.6200,76.1800
+7400,5,Hill Station,Kottathavalam,9.6980,76.8040
+7500,5,Hill Station,Illickal Mala,9.6644,76.8344
+7600,5,Hill Station,Elaveezhapoonchira,9.7820,76.7990
+7700,5,Hill Station,Vazhikkadavu Viewpoint,9.7350,76.8000
+7800,5,Hill Station,Nadukani Viewpoint,9.8200,76.9950
+7900,5,Hill Station,Kulukkumalai Viewpoint,10.0870,77.2250
+2800,2,Waterfall,Aruvikkara Dam Falls,8.5711,77.0070
+2900,2,Waterfall,Kallar Waterfalls,8.7411,77.1320
+3000,2,Waterfall,Meenmutty Thiruvananthapuram,8.7520,77.1280
+3100,2,Waterfall,Mankayam Waterfalls,8.7200,77.1000
+3200,2,Waterfall,Vazhvanthol Waterfalls,8.7040,77.1220
+3300,2,Waterfall,Palaruvi Lower Falls,8.9120,77.1600
+3400,2,Waterfall,Manalar Waterfalls,8.9700,77.1400
+3500,2,Waterfall,Kumbhavurutty Upper Falls,8.9860,77.1610
+3600,2,Waterfall,Thenmala Waterfalls,8.9560,77.0640
+3700,3,Waterfall,Kattikkayam Waterfalls,9.6930,76.8040
+3800,3,Waterfall,Ayyampara Waterfalls,9.7500,76.8300
+3900,3,Waterfall,Aruvikuzhy Kottayam,9.6275,76.6636
+4000,3,Waterfall,Kesari Falls,10.0330,77.0830
+4100,3,Waterfall,Viripara Waterfalls,10.1450,76.9000
+4200,3,Waterfall,Kuthumkal Waterfalls,9.9680,77.0060
+4300,3,Waterfall,Anayadikuthu Waterfalls,9.9280,76.8470
+4400,3,Waterfall,Valanjanganam Falls,9.5300,76.9800
+4500,3,Waterfall,Naranga Kanam Waterfalls,9.5200,76.9800
+4600,3,Waterfall,Charpa Falls,10.2861,76.5564
+4700,3,Waterfall,Olappara Waterfalls,10.4580,76.6500
+4800,3,Waterfall,Meenvallam Waterfalls,10.9675,76.5800
+4900,3,Waterfall,Seetharkundu Waterfalls,10.5330,76.6900
+5000,3,Waterfall,Pathrakadavu Waterfalls,11.0700,76.4100
+5100,4,Waterfall,Thusharagiri Waterfalls,11.4728,76.0506
+5200,4,Waterfall,Arippara Falls,11.3726,76.0106
+5300,4,Waterfall,Urakuzhi Waterfalls,11.3600,76.0200
+5400,4,Waterfall,Chooralmala Waterfalls,11.5050,76.1480
+5500,4,Waterfall,Chethalayam Falls,11.7000,76.2600
+5600,4,Waterfall,Kadachikunnu Waterfalls,11.6600,76.2600
+5700,4,Waterfall,Kanjirakolly Waterfalls,12.0740,75.5230
+5800,4,Waterfall,Alakapuri Waterfalls,12.0720,75.5250
+5900,4,Waterfall,Palchuram Waterfalls,11.8700,75.8400
+6000,4,Waterfall,Ranipuram Waterfalls,12.4270,75.3540
+6100,4,Waterfall,Posadigumpe Waterfalls,12.6390,75.0300
+3600,3,Wildlife,Agasthyavanam Biological Park,8.6130,77.2440
+3700,3,Wildlife,Kottur Elephant Rehabilitation Centre,8.6120,77.0850
+3800,3,Wildlife,Neyyar Lion Safari Park,8.5345,77.1510
+3900,3,Wildlife,Peppara Reservoir Forest,8.6175,77.1675
+4000,3,Wildlife,Shendurney Eco Tourism,8.9167,77.1167
+4100,3,Wildlife,Thenmala Deer Park,8.9550,77.0640
+4200,3,Wildlife,Konni Elephant Camp,9.2323,76.8529
+4300,3,Wildlife,Adavi Eco Tourism,9.2675,76.9472
+4400,3,Wildlife,Gavi Forest Station,9.4394,77.1656
+4500,3,Wildlife,Pampa Forest Range,9.4160,77.0900
+4600,3,Wildlife,Kumarakom Bird Habitat,9.6260,76.4290
+4700,3,Wildlife,Thattekad Salim Ali Sanctuary,10.1167,76.7000
+4800,3,Wildlife,Bhoothathankettu Forest,10.1440,76.6800
+4900,3,Wildlife,Abhayaranyam Kaprikkad,10.1738,76.5420
+5000,3,Wildlife,Kodanad Elephant Centre,10.1786,76.5440
+5100,4,Wildlife,Peechi Forest Reserve,10.5330,76.3830
+5200,4,Wildlife,Chimmony Dam Forest,10.4333,76.4500
+5300,4,Wildlife,Vazhani Forest,10.6080,76.3900
+5400,4,Wildlife,Malampuzha Garden Deer Park,10.8300,76.6900
+5500,4,Wildlife,Walayar Forest,10.8500,76.8700
+5600,4,Wildlife,Nelliampathy Forest,10.5342,76.6936
+5700,4,Wildlife,Anamudi Shola Forest,10.1710,77.2120
+5800,4,Wildlife,Eravikulam Rajamala,10.1600,77.0830
+5900,4,Wildlife,Marayoor Sandalwood Forest,10.2694,77.1611
+6000,4,Wildlife,Chinnar Forest Checkpost,10.3506,77.2158
+6100,4,Wildlife,Silent Valley Sairandhri,11.0830,76.4500
+6200,4,Wildlife,Attappadi Reserve Forest,11.1010,76.5450
+6300,4,Wildlife,Begur Wildlife Range,11.7900,76.0400
+6400,4,Wildlife,Tholpetty Wildlife Sanctuary,11.9500,76.0200
+6500,4,Wildlife,Kuruva Dweep Forest,11.8336,76.0866
+6600,4,Wildlife,Pakshipathalam Bird Area,11.9439,75.9964
+6700,4,Wildlife,Aralam Farm Forest,11.9500,75.8333
+6800,5,Wildlife,Kottiyoor Forest,11.8870,75.7840
+6900,5,Wildlife,Ranipuram Wildlife Area,12.4277,75.3536
+7000,5,Wildlife,Kareem Forest Park,12.4250,75.3550
+1200,1,Historical,Kuthiramalika Palace,8.4828,76.9432
+1300,1,Historical,Napier Museum,8.5084,76.9558
+1400,1,Historical,Sree Chitra Art Gallery,8.5082,76.9556
+1500,1,Historical,Priyadarshini Planetarium,8.5090,76.9475
+1600,1,Historical,Kanakakunnu Palace Grounds,8.5126,76.9557
+1700,1,Historical,Vizhinjam Rock Cut Cave,8.3780,76.9910
+1800,1,Historical,Anchuthengu Light House,8.6900,76.7600
+1900,1,Historical,Kilimanoor Palace,8.7590,76.8750
+2000,2,Historical,Kottarakkara Palace,9.0010,76.7700
+2100,2,Historical,Thangassery Fort,8.8860,76.5740
+2200,2,Historical,Thangassery Lighthouse,8.8864,76.5738
+2300,2,Historical,Thevally Palace,8.9020,76.5860
+2400,2,Historical,Munroe Island Heritage,8.9914,76.6136
+2500,2,Historical,Pandalam Palace,9.2250,76.6750
+2600,2,Historical,Aranmula Heritage Village,9.3306,76.6858
+2700,2,Historical,Kadammanitta,9.2830,76.7850
+2800,2,Historical,Kaviyoor Rock Temple,9.3920,76.6000
+2900,2,Historical,Alappuzha Lighthouse,9.4981,76.3297
+3000,2,Historical,Revi Karunakaran Museum,9.4970,76.3300
+3100,2,Historical,Krishnapuram Palace Museum,9.1496,76.5050
+3200,2,Historical,St Marys Forane Church Champakulam,9.3718,76.4073
+3300,2,Historical,Thazhathangadi Heritage Street,9.5940,76.5190
+3400,2,Historical,Kottayam Cheriyapally,9.5920,76.5225
+3500,2,Historical,Kottayam Valiyapally,9.5941,76.5207
+3600,3,Historical,Baker Memorial Church,9.5890,76.5220
+3700,3,Historical,Thirunakkara Grounds,9.5916,76.5220
+3800,3,Historical,Mattancherry Jew Street,9.9581,76.2599
+3900,3,Historical,Bastion Bungalow,9.9666,76.2421
+4000,3,Historical,Indo Portuguese Museum,9.9664,76.2412
+4100,3,Historical,David Hall Gallery,9.9670,76.2425
+4200,3,Historical,Pallipuram Fort,10.1760,76.1640
+4300,3,Historical,Chendamangalam Synagogue,10.1761,76.2319
+4400,3,Historical,Paliam Palace,10.1760,76.2320
+4500,3,Historical,Kerala Folklore Museum,9.9380,76.3130
+4600,3,Historical,Sakthan Thampuran Palace,10.5276,76.2144
+4700,3,Historical,Vadakkunnathan Temple Heritage,10.5276,76.2144
+4800,3,Historical,Bible Tower Thrissur,10.5276,76.2144
+4900,3,Historical,Cheraman Juma Mosque,10.2170,76.1980
+5000,3,Historical,Kodungallur Fort Area,10.2180,76.1990
+5100,4,Historical,Kollengode Palace,10.6080,76.6990
+5200,4,Historical,Kalpathy Heritage Village,10.7867,76.6548
+5300,4,Historical,Tipu Sultan Fort Palakkad,10.7663,76.6553
+5400,4,Historical,Nilambur Teak Museum,11.2766,76.2286
+5500,4,Historical,Nilambur Kovilakam,11.2790,76.2260
+5600,4,Historical,Tirur Thunchan Parambu,10.9140,75.9220
+5700,4,Historical,Kottakkal Arya Vaidya Sala,10.9940,76.0070
+5800,4,Historical,Mishkal Mosque,11.2485,75.7789
+5900,4,Historical,Pazhassi Raja Museum,11.2736,75.8221
+6000,4,Historical,Mananchira Square,11.2588,75.7804
+6100,4,Historical,Lokanarkavu Heritage,11.5837,75.6056
+6200,4,Historical,Arakkal Palace,11.8614,75.3736
+6300,4,Historical,St Angelo Fort Museum,11.8544,75.3683
+6400,4,Historical,Gundert Bungalow,11.7480,75.4890
+6500,4,Historical,Madayipara Heritage Site,12.0330,75.2560
+6600,4,Historical,Ezhimala Naval Heritage,12.0410,75.2080
+6700,4,Historical,Chandragiri Fort,12.5020,74.9900
+6800,5,Historical,Hosdurg Fort,12.3090,75.0890
+6900,5,Historical,Ananthapura Lake Temple Heritage,12.5850,75.0800
+7000,5,Historical,Malik Deenar Mosque,12.5000,74.9900
+1500,1,Pilgrimage,Sree Padmanabhaswamy Temple East Fort,8.4829,76.9435
+1600,1,Pilgrimage,Pazhavangadi Ganapathy Temple,8.4820,76.9460
+1700,1,Pilgrimage,Karikkakom Chamundi Temple,8.5095,76.9060
+1800,1,Pilgrimage,Madavaoorpara Shiva Temple,8.5970,76.9580
+1900,1,Pilgrimage,Vettucaud Church,8.5060,76.8930
+2000,1,Pilgrimage,St Marys Cathedral Pattom,8.5220,76.9360
+2100,2,Pilgrimage,Kottarakkara Ganapathy Temple,9.0010,76.7700
+2200,2,Pilgrimage,Oachira Parabrahma Temple,9.1297,76.5066
+2300,2,Pilgrimage,Mata Amritanandamayi Ashram,9.0920,76.4900
+2400,2,Pilgrimage,Parabrahma Temple Omalloor,9.2730,76.7850
+2500,2,Pilgrimage,Malayalapuzha Devi Temple,9.2680,76.8070
+2600,2,Pilgrimage,Maramon Convention Site,9.3350,76.6900
+2700,2,Pilgrimage,Parumala Church,9.3260,76.5350
+2800,2,Pilgrimage,Edathua Church,9.3710,76.4780
+2900,2,Pilgrimage,Arthunkal Church,9.6690,76.3040
+3000,2,Pilgrimage,Chettikulangara Temple,9.2450,76.5200
+3100,2,Pilgrimage,Mullakkal Rajarajeswari Temple,9.4980,76.3380
+3200,2,Pilgrimage,Ettumanoor Temple,9.6706,76.5583
+3300,2,Pilgrimage,Bharananganam Church,9.7040,76.7280
+3400,2,Pilgrimage,Manarcad Church,9.5800,76.5750
+3500,2,Pilgrimage,Kaduthuruthy Mahadeva Temple,9.7640,76.5000
+3600,3,Pilgrimage,Udayanapuram Subrahmanya Temple,9.7580,76.3950
+3700,3,Pilgrimage,Kanjiramattom Mosque,9.8650,76.4000
+3800,3,Pilgrimage,St George Church Edappally,10.0270,76.3080
+3900,3,Pilgrimage,Vallarpadam Basilica,10.0000,76.2520
+4000,3,Pilgrimage,Koonan Kurishu Shrine,9.9588,76.2595
+4100,3,Pilgrimage,Santa Cruz Basilica,9.9668,76.2422
+4200,3,Pilgrimage,St Thomas Church Malayattoor,10.1978,76.5161
+4300,3,Pilgrimage,Kodungallur Temple,10.2267,76.1972
+4400,3,Pilgrimage,Thiruvanchikulam Temple,10.2180,76.1980
+4500,3,Pilgrimage,Our Lady of Dolours Basilica,10.5276,76.2144
+4600,3,Pilgrimage,Paramekkavu Temple,10.5276,76.2144
+4700,3,Pilgrimage,Thiruvambady Temple,10.5300,76.2160
+4800,3,Pilgrimage,Koodalmanikyam Temple,10.3440,76.2130
+4900,3,Pilgrimage,Triprayar Sree Rama Temple,10.4230,76.1090
+5000,3,Pilgrimage,Punnathur Kotta,10.5940,76.0300
+5100,4,Pilgrimage,Kalpathy Temple,10.7867,76.6548
+5200,4,Pilgrimage,Chinakkathoor Temple,10.7780,76.3770
+5300,4,Pilgrimage,Thirumandhamkunnu Temple,10.9660,76.2260
+5400,4,Pilgrimage,Kadampuzha Bhagavathy Temple,10.9833,76.0333
+5500,4,Pilgrimage,Mamburam Mosque,11.0800,75.9300
+5600,4,Pilgrimage,Tali Temple Kozhikode,11.2480,75.7800
+5700,4,Pilgrimage,Varakkal Devi Temple,11.2830,75.7540
+5800,4,Pilgrimage,Kappad Mosque Area,11.3850,75.7200
+5900,4,Pilgrimage,Thirunelli Mahavishnu Temple,11.9167,76.0833
+6000,4,Pilgrimage,Valliyoorkavu Temple,11.8040,76.0040
+6100,4,Pilgrimage,Kottiyoor Temple,11.8870,75.7840
+6200,4,Pilgrimage,Parassinikadavu Temple,11.9748,75.4230
+6300,4,Pilgrimage,Rajarajeshwara Temple Taliparamba,12.0420,75.3600
+6400,4,Pilgrimage,Trichambaram Temple,12.0430,75.3600
+6500,4,Pilgrimage,Madhur Temple,12.5220,74.9900
+6600,4,Pilgrimage,Ananthapura Lake Temple,12.5850,75.0800
+6700,5,Pilgrimage,Bela Church,12.5070,75.0000
+6800,5,Pilgrimage,Malik Deenar Juma Masjid,12.5000,74.9900
+6900,5,Pilgrimage,Kottancheri Pilgrimage Hills,12.3167,75.3833
+7000,5,Pilgrimage,Manjeswaram Jain Temple,12.7130,74.8900
+3800,3,Adventure,Neyyar Dam Boating,8.5337,77.1502
+3900,3,Adventure,Poovar Boating,8.3181,77.0678
+4000,3,Adventure,Kovalam Surfing,8.4021,76.9784
+4100,3,Adventure,Varkala Cliff Walk,8.7338,76.7116
+4200,3,Adventure,Jatayu Cable Car,8.8876,76.8677
+4300,3,Adventure,Thenmala Adventure Zone,8.9567,77.0667
+4400,3,Adventure,Thenmala Boating,8.9560,77.0640
+4500,3,Adventure,Rosemala Viewpoint,8.9100,77.1300
+4600,3,Adventure,Konni Coracle Ride,9.2675,76.9472
+4700,3,Adventure,Adavi Bowl Boat Ride,9.2675,76.9472
+4800,3,Adventure,Gavi Jeep Safari,9.4394,77.1656
+4900,3,Adventure,Alappuzha Houseboat,9.4981,76.3388
+5000,3,Adventure,Kumarakom Houseboat,9.5928,76.4227
+5100,4,Adventure,Pathiramanal Kayaking,9.6178,76.3881
+5200,4,Adventure,Illikkal Kallu Trek,9.6644,76.8344
+5300,4,Adventure,Kurisumala Trek,9.6642,76.8925
+5400,4,Adventure,Vagamon Paragliding,9.6869,76.9048
+5500,4,Adventure,Vagamon Off Road Trail,9.6865,76.9058
+5600,4,Adventure,Idukki Arch Dam View,9.8441,76.9725
+5700,4,Adventure,Calvary Mount Trek,9.8279,76.9291
+5800,4,Adventure,Ramakkalmedu Wind View,9.8000,77.2500
+5900,4,Adventure,Kolukkumalai Trek,10.0880,77.2280
+6000,4,Adventure,Meesapulimala Trek,10.1375,77.2577
+6100,4,Adventure,Chokramudi Trek,10.0760,77.0550
+6200,4,Adventure,Top Station Trek,10.1218,77.2463
+6300,4,Adventure,Eravikulam Trek Trail,10.1500,77.0833
+6400,4,Adventure,Marayoor Dolmens Trail,10.2694,77.1611
+6500,4,Adventure,Chinnar Trekking Trail,10.3506,77.2158
+6600,4,Adventure,Malampuzha Ropeway,10.8300,76.6900
+6700,4,Adventure,Nelliyampathy Hairpin Drive,10.5342,76.6936
+6800,5,Adventure,Seetharkundu Trek,10.5330,76.6900
+6900,5,Adventure,Silent Valley Trek,11.0833,76.4500
+7000,5,Adventure,Attappadi Tribal Trail,11.1010,76.5450
+7100,5,Adventure,Nilambur Canoli Plot Walk,11.2766,76.2286
+7200,5,Adventure,Kakkayam Dam Trek,11.5460,75.9000
+7300,5,Adventure,Thusharagiri Trek,11.4728,76.0506
+7400,5,Adventure,Peruvannamuzhi Boating,11.5950,75.8200
+7500,5,Adventure,Chembra Heart Lake Trek,11.5458,76.0886
+7600,5,Adventure,Banasura Hill Trek,11.6709,75.9506
+7700,5,Adventure,Kuruva Island Walk,11.8336,76.0866
+7800,5,Adventure,Edakkal Cave Trail,11.6266,76.2369
+7900,5,Adventure,Brahmagiri Trek,11.9410,76.0140
+8000,5,Adventure,Paithalmala Trek,12.0998,75.6568
+8100,5,Adventure,Palakkayam Thattu Trek,12.0770,75.5600
+8200,5,Adventure,Kanjirakolly Trek,12.0740,75.5230
+8300,5,Adventure,Ranipuram Trek,12.4277,75.3536
+8400,5,Adventure,Kottancheri Trek,12.3167,75.3833
+8500,5,Adventure,Posadigumpe Viewpoint,12.6390,75.0300
